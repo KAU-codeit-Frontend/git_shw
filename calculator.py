@@ -8,5 +8,5 @@ def subtract(a, b):
 def multiply(a, b):  # 'multiply'로 선택
   return a * b
 
-def divide(a, b):
+def divide_premium(a, b):
   return a / b  # 빈 줄 충돌을 제거
