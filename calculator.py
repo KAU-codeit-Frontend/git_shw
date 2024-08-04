@@ -13,3 +13,7 @@ def divide_new(a,b):
 
 def getRemainder(a, b):
     return a//b
+
+def getSum_ver1(n):
+    return n(n+1)/2
+
