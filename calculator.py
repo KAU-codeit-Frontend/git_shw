@@ -3,10 +3,13 @@ def add(a, b):
   return a + b
 
 def subtract(a, b):
+<<<<<<< HEAD
   return a - b
+=======
+  return a-b
 
-def multiply(a, b):  # 'multiply'로 선택
-  return a * b
+def multiple(a, b):
+  return a*b
 
-def divide_premium(a, b):
-  return a / b  # 빈 줄 충돌을 제거
+def divide_new(a,b):
+  return a/b
